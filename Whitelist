@@ -1,0 +1,6 @@
+keys = {
+[qwqeq] = true, -- Random key!
+[yay] = true,
+[whoareyou?] = true
+}
+return keys
